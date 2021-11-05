@@ -36,5 +36,4 @@ function ld_log(level, line)
   print(line)
 end
 ld.registerLogger(LD_LOG_LEVEL, ld_log)
-ld.registerLogger(LD_LOG_LEVEL, ld_log)
 
