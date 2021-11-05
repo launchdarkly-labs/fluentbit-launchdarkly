@@ -6,6 +6,14 @@
 
 This is a minimal proof-of-concept demonstrating the ability to forward or drop log entries using in [Fluentbit](https://fluentbit.io/) using the [LaunchDarkly Lua SDK](https://docs.launchdarkly.com/sdk/server-side/lua).
 
+Please be advised that the author:
+
+- 🤷🏽‍♂️ Has never written Lua before
+- ⚠️ Has never used Fluentbit in production 
+- ⏱ Only spent a couple hours on this 
+
+**Quality:** ✨ Works on my machine  ✨
+
 ## Building the image
 
 
